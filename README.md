@@ -1,16 +1,51 @@
-## Hi there 👋
+![image.png](attachment:c69fb7ea-62c6-4a27-9ad0-79ed82aae7a8:image.png)
 
-<!--
-**cek516201/cek516201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 유병한
 
-Here are some ideas to get you started:
+1998.05.12 (만 27세)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 게임의 세계를 만드는 개발자 유병한입니다. 
+게임의 세계를 꾸며나가는 것을 좋아합니다.
+열정 또한 중요하지만 정확하게 하는 것, 속도 또한 중요하지만
+효율적인가를 중요하게 생각합니다.
+> 
+
+---
+
+# :1f4de_color: 연락처
+
+TEL : 010-9314-2387
+
+E-mail : cek516201@naver.com
+
+Github : [github.com/cek516201](https://github.com/cek516201)
+
+---
+
+# 📇 자격증
+
+- 2021.01 컴퓨터활용능력 1급
+
+# 🏫 학력
+
+- 2017.03 ~ 2024.02
+- 호서대학교 | 게임소프트웨어학과
+
+---
+
+# 📖 교육
+
+- 2024.04 ~ 2024.10
+- 에이콘 아카데미 | 웹 개발자 양성과정 수료
+
+---
+
+# 💪 Skill
+
+[스킬](https://www.notion.so/302264cd062281c2b1bac7a35b12ebae?pvs=21)
+
+---
+
+# 🗂 Project
+
+[프로젝트](https://www.notion.so/302264cd0622816b8289d57c7a43c543?pvs=21)

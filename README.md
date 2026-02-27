@@ -14,34 +14,22 @@ TEL : 010-9314-2387
 
 E-mail : cek516201@naver.com
 
-Github : [github.com/cek516201](https://github.com/cek516201)
 
----
 
 # 📇 자격증
 
 - 2021.01 컴퓨터활용능력 1급
+
+
 
 # 🏫 학력
 
 - 2017.03 ~ 2024.02
 - 호서대학교 | 게임소프트웨어학과
 
----
+
 
 # 📖 교육
 
 - 2024.04 ~ 2024.10
 - 에이콘 아카데미 | 웹 개발자 양성과정 수료
-
----
-
-# 💪 Skill
-
-[스킬](https://www.notion.so/302264cd062281c2b1bac7a35b12ebae?pvs=21)
-
----
-
-# 🗂 Project
-
-[프로젝트](https://www.notion.so/302264cd0622816b8289d57c7a43c543?pvs=21)

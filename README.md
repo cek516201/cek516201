@@ -1,7 +1,7 @@
 1998.05.12 (만 27세)
 
-> 게임의 세계를 만드는 개발자 유병한입니다.<br/>
-게임의 세계를 꾸며나가는 것을 좋아합니다.<br/>
+> 게임의 세계를 만드는 개발자 유병한입니다. <br/>
+게임의 세계를 꾸며나가는 것을 좋아합니다. <br/>
 열정 또한 중요하지만 정확하게 하는 것, 속도 또한 중요하지만 효율적인가를 중요하게 생각합니다.
 >
 
@@ -9,9 +9,9 @@
 
 # 연락처
 
-TEL : 010-9314-2387
-E-mail : cek516201@naver.com
-https://www.notion.so/302264cd06228027aa21eed44ac1a0b5?source=copy_link
+TEL : 010-9314-2387 <br/>
+E-mail : cek516201@naver.com <br/>
+Notion : https://www.notion.so/302264cd06228027aa21eed44ac1a0b5?source=copy_link
 
 <br/>
 

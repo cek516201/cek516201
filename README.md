@@ -10,8 +10,8 @@
 # 연락처
 
 TEL : 010-9314-2387
-
 E-mail : cek516201@naver.com
+https://www.notion.so/302264cd06228027aa21eed44ac1a0b5?source=copy_link
 
 <br/>
 
